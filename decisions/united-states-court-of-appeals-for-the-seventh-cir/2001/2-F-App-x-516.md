@@ -1,0 +1,36 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "99-4299"
+decided: "2001-02-05"
+citations: ["2 F. App'x 516"]
+parties: ["Gregory BROWNLOW, Plaintiff-Appellant, v. Linda VAN NATTA, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/2/cases/0516-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 133647
+cites_cases: ["176 F.3d 390", "220 F.3d 491", "42 U.S.C. § 1983", "689 F.2d 100", "78 F.3d 1252", "87 F.3d 872"]
+---
+
+# Brownlow v. Van Natta
+
+## Head matter
+
+Gregory BROWNLOW, Plaintiff-Appellant, v. Linda VAN NATTA, Defendant-Appellee.
+No. 99-4299.
+United States Court of Appeals, Seventh Circuit.
+Submitted Feb. 5, 2001 .
+Decided Feb. 5, 2001.
+Before Hon. COFFEY, Hon. RIPPLE, Hon. TERENCE T. EVANS, Circuit Judges.
+After an examination of the briefs and the record, we have concluded that oral argument is unnecessary. Thus, the appeal is submitted on the briefs and the record. See Fed. R.App. P. 34(a)(2).
+
+## Majority
+
+ORDER
+Former Indiana prisoner Gregory Brownlow sued Linda Van Natta, an administrative assistant to a regional director of the Indiana Department of Corrections, under 42 U.S.C. § 1983, alleging that she had wrongly deprived him of his good-time credits, thereby forcing him to serve several extra months beyond his release date. The district court granted summary judgment for Ms. Van Natta, on the ground that Mr. Brownlow had not produced evidence that she had any personal involvement in the alleged constitutional violation. On appeal, Mr. Brownlow challenges this determination and further maintains that the district court did not give him an adequate opportunity to respond to the summary judgment motion. We affirm.
+Mr. Brownlow brought this action in February 1997 after discovering that he had been deprived of good-time credits, and demoted to a lower credit time earning class, without the benefit of a hearing. Apparently, in 1986, another inmate had represented himself as Mr. Brownlow at a disciplinary hearing, with the result that Mr. Brownlow was erroneously sanctioned for that inmate’s disciplinary violation. Although the prison eventually restored Mr. Brownlow’s credits, it was not until after he had already served several additional months beyond what should have been his release date.
+Ms. Van Natta moved for summary judgment on November 4, 1999, and in support of the motion submitted her own declaration, in which she states that she was never made aware of any claim that Mr. Brownlow had been wrongly deprived of credit time and that she had never participated in any action relating to Mr. Brownlow’s various conduct convictions. Rather, the only contact she had with Mr. Brownlow was to deny a Petition for Restoration of Credit Time in July 1996. But that petition had nothing to do with the validity of any disciplinary action taken against Mr. Brownlow; instead, Mr. Brownlow had simply requested that his credit time be restored on the grounds that: “I have obtained a vocational trade, in printing. And, my father has recently become very ill. I would like to be restored fifty days (50) so that I will be in a better position to be released soon and support my family.” According to Ms. Van Natta, she denied this request on the basis that Mr. Brownlow had not made a significant effort at self-improvement that would warrant restoration of the lost credit time.
+Mr. Brownlow did not respond to Ms. Van Natta’s summary judgment motion, nor did he seek additional time to file a response. As a result, when the district court rendered its decision on November 24, the only evidence before it was Ms. Van Natta’s declaration. The court thus granted her summary judgment, reasoning that Mr. Brownlow had produced no evidence to establish that she had any personal involvement in the alleged constitutional violation.
+We review a district court’s grant of summary judgment de novo, construing all facts in the light most favorable to the nonmoving party and drawing all reasonable and justifiable inferences in its favor. Filipovic v. K & R Express Sys., Inc., 176 F.3d 390, 395 (7th Cir.1999). To defeat a motion for summary judgment, the non-moving party cannot rest on the mere allegations contained in its pleadings but “must present sufficient evidence to show the existence of each element of its case on which it will bear the burden at trial.” Id. (internal quotations and citation omitted). Summary judgment will be granted when there is no genuine issue as to any material fact, and the moving party is entitled to judgment as a matter of law. Id.
+We have long held that liability under § 1983 must be predicated upon personal responsibility. See, e.g., Miller v. Smith, 220 F.3d 491, 495 (7th Cir.2000); Starzenski v. City of Elkhart, 87 F.3d 872, 880 (7th Cir.1996). Thus in order to obtain relief, a § 1983 plaintiff must establish that the defendant acted or failed to act with a deliberate or reckless disregard of the plaintiffs constitutional rights. Miller, 220 F.3d at 495. Here, as discussed above, the only evidence before the district court was Ms. Van Natta’s declaration, in which she maintains that she had no personal involvement in reviewing any of Mr. Brownlow’s disciplinary reports. Mr. Brownlow provided no evidence to refute this allegation and, consequently, failed to show that Ms. Van Natta had any knowledge whatsoever about the erroneous revocation of his good-time credits. Summary judgment was thus appropriately granted on this ground.
+Mr. Brownlow contends that the district court did not give him an adequate opportunity to respond to the summary judgment motion. We disagree. The motion contained a warning, consistent with Lewis v. Faulkner, 689 F.2d 100 (7th Cir. 1982), notifying Mr. Brownlow that he must respond within eighteen days in the form required by Federal Rule of Civil Procedure 56(e), that failure to respond within that time could lead to the court rendering a decision without his response, and that he could seek additional time to respond. But despite this warning, Mr. Brownlow did not respond in the time allotted, nor did he seek an extension of time. Even as a pro se plaintiff, Mr. Brownlow is “not entitled to a general dispensation from the rules of procedure or court-imposed deadlines.” Downs v. Westphal, 78 F.3d 1252, 1257 (7th Cir. 1996) (internal quotations and citation omitted). Given the clear notice that Mr. Brownlow received, his allegation that he was deprived of an adequate opportunity to respond is without merit.
+Finally, we reject Mr. Brownlow’s contention that the district court should not have allowed Ms. Van Natta to submit his disciplinary records in support of her declaration. The only exhibit attached to Ms. Van Natta’s declaration is a copy of Mr. Brownlow’s July 1996 Petition for Restoration of Credit Time, which, as discussed above, supported Ms. Van Natta’s position that she had no personal involvement in the revocation of Mr. Brownlow’s good-time credits. Submission of this exhibit was entirely proper, see Fed.R.Civ.P. 56(e), and Mr. Brownlow’s allegation that the court somehow made an improper credibility determination based on that exhibit is unfounded.
+For the above reasons, the judgment of the district court is AFFIRMED.
