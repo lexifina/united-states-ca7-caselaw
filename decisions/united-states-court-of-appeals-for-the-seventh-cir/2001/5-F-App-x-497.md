@@ -1,0 +1,36 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "00-2374"
+decided: "2001-02-26"
+citations: ["5 F. App'x 497"]
+judges: ["Before Hon. WILLIAM J. BAUER, Hon. RICHARD D. CUDAHY, and Hon. RICHARD A. POSNER, Circuit Judges."]
+parties: ["UNITED STATES OF AMERICA, Plaintiff-Appellee, v. Alfredo HERNANDEZ, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/5/cases/0497-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 157643
+cites_cases: ["105 F.3d 331", "123 F.3d 627", "125 F.3d 583", "148 F.3d 864", "202 F.3d 969", "21 U.S.C. § 841", "21 U.S.C. §§ 846", "217 F.3d 494", "229 F.3d 589", "235 F.3d 1049", "238 F.3d 871", "28 U.S.C. § 2255", "386 U.S. 738", "530 U.S. 466", "58 F.3d 280", "922 F.2d 413"]
+---
+
+# United States v. Hernandez
+
+## Head matter
+
+UNITED STATES OF AMERICA, Plaintiff-Appellee, v. Alfredo HERNANDEZ, Defendant-Appellant.
+No. 00-2374.
+United States Court of Appeals, Seventh Circuit.
+Submitted Feb. 22, 2001.
+Decided Feb. 26, 2001.
+Before Hon. WILLIAM J. BAUER, Hon. RICHARD D. CUDAHY, and Hon. RICHARD A. POSNER, Circuit Judges.
+After an examination of the briefs and the record, we have concluded that oral argument is unnecessary. Thus, the appeal is submitted on the briefs and the record. See Fed. R.App. P. 34(a)(2).
+
+## Majority
+
+ORDER
+Alfredo Hernandez pleaded guilty pursuant to a written plea agreement to a single count of conspiracy to distribute cocaine in violation of 21 U.S.C. §§ 846 and 841(a)(1). His plea agreement contained an express waiver of his right to appeal his sentence, but Hernandez filed a notice of appeal anyway. His attorney, finding no meritorious issues for appeal, has moved to withdraw under Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967). Because counsel’s Anders brief is facially adequate, we limit our review of the record to those potential issues identified in it and in the response Hernandez filed under Circuit Rule 51(b). See United States v. Tabb, 125 F.3d 583, 584 (7th Cir.1997).
+Counsel considers whether Hernandez might challenge his guilty plea or his sentence. On the latter, counsel notes that Hernandez’s plea agreement contained a waiver of his right to appeal his sentence. The right to appeal can be waived in a valid plea agreement. United States v. Behrman, 235 F.3d 1049, 1051 (7th Cir.2000); United States v. Standiford, 148 F.3d 864, 867 (7th Cir.1998). The validity of the waiver rests on whether it is express and unambiguous and whether the record clearly demonstrates that it was made knowingly and voluntarily. United States v. Woolley, 123 F.3d 627, 632 (7th Cir.1997).
+Paragraph 9(h) of Hernandez’s plea agreement reads:
+Understanding that Section 3742 of Title 18 of the United States Code provides for appeal by a defendant of a sentence under certain circumstances and that he may give up or waive said right to appeal, I expressly waive any and all rights conferred by Title 18, United States Code, Section 3742 to appeal my sentence. I also expressly waive the right to appeal my sentence on any other ground and waive the right to attack my sentence in any post-conviction proceeding.
+We enforced an identical agreement in United States v. Wenger, 58 F.3d 280 (7th Cir.1995). Moreover, as required by Federal Rule of Criminal Procedure 11(c)(6), the district court engaged in a colloquy with Hernandez to determine whether he had read and understood the waiver, and whether he knowingly and voluntarily agreed to it. The district court read the entire paragraph to Hernandez and asked him if he understood that under normal circumstances he had a right to appeal his sentence, if he had discussed the waiver with his attorney, and if he desired to waive his right to appeal. Hernandez unequivocally and without hesitation answered yes to each question. Hernandez also affirmed that he signed the agreement knowingly, voluntarily, and intentionally, and that he had not been coerced or threatened. We therefore agree with counsel that it would be frivolous for Hernandez to argue that his appeal waiver is unenforceable.
+Because the appeal waiver stands or falls with the rest of the plea agreement, see Behrman, 235 F.3d at 1052, counsel considers whether Hernandez might challenge the validity of his guilty plea. Hernandez never moved to withdraw his guilty plea, so we would review its validity only for plain error. United States v. Akinsola, 105 F.3d 331, 333 (7th Cir.1997). Counsel concludes that such a challenge would be frivolous because the district court substantially complied with Federal Rule of Criminal Procedure 11(c) before accepting Hernandez’s guilty plea. Having reviewed the transcript of the change-of-plea hearing, we agree. The district court advised Hernandez of the nature of the charges against him, the minimum and maximum penalties, and the constitutional rights he would waive by pleading guilty. Hernandez confirmed that he understood these admonitions and that he was pleading guilty voluntarily. We presume such representations to be truthful. Bridgeman v. United States, 229 F.3d 589, 592 (7th Cir.2000); Standiford, 148 F.3d at 868-69. Under these circumstances, any appeal based on the validity of Hernandez’s plea would be frivolous. See United States v. Godwin, 202 F.3d 969, 972 (7th Cir.2000).
+In his response to counsel’s Anders brief, Hernandez states that he would ask us to vacate his sentence on the ground that trial counsel was constitutionally ineffective. Hernandez states that counsel failed to object to the drug quantity calculation, to let him personally review his Presentence Investigation Report, and to request disclosure of mitigating or exculpatory evidence in the government’s possession. Hernandez also suggests that the quantity of drugs attributed to him was a fact that the government had to prove beyond a reasonable doubt, see Apprendi v. New Jersey, 530 U.S. 466, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000). Hernandez’s allegations that counsel failed to contest his drug quantity exposure or let him review his PSR are flatly contradicted by the record: counsel objected orally and in writing to the drug-quantity recommendations in the PSR, and Hernandez told the district court that he received a copy of his PSR and reviewed it with his attorney. But Hernandez’s contention that counsel failed to request disclosure of favorable evidence relates to facts outside the record and so his ineffective assistance of counsel claim is better suited for a motion to vacate, set aside, or correct his sentence under 28 U.S.C. § 2255. See United, States v. Hamzat, 217 F.3d 494, 501 (7th Cir.2000); United States v. Taglia, 922 F.2d 413, 417-18 (7th Cir.1991). We offer no opinion on the effect or scope of Hernandez’s waiver of his right to collaterally attack his sentence under § 2255. Finally, because Hernandez received a 97-month sentence-well below the lowest possible statutory maximum sentence of 20 years for cocaine offenses, see 21 U.S.C. § 841(b)(l)(C)-Apprendi would be irrelevant. See United States v. Williams, 238 F.3d 871, 872(7th Cir.2001).
+Accordingly, we GRANT counsel’s motion to withdraw and DISMISS Hernandez’s appeal.
