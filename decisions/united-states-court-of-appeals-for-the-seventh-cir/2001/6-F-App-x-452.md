@@ -1,0 +1,34 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "98-2354, 98-2355"
+decided: "2001-04-30"
+citations: ["6 F. App'x 452"]
+judges: ["Before Hon. KANNE, Hon. ILANA DIAMOND ROVNER, Hon. WILLIAMS, Circuit Judges."]
+parties: ["Karl M. HANEL and Trenton E. Boisselier, Petitioners-Appellants, v. COMMISSIONER OF INTERNAL REVENUE, RespondentAppellee."]
+source_url: "https://static.case.law/f-appx/6/cases/0452-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 155352
+cites_cases: ["100 F.3d 1308", "116 F.3d 1309", "1970 WL 2187", "290 U.S. 111", "54 T.C. 1530", "596 F.2d 358", "649 F.2d 152", "76 T.C.M. (CCH) 381", "786 F.2d 1063", "794 F.2d 884", "883 F.2d 1317", "910 F.2d 1374", "932 F.2d 1128", "975 F.2d 534", "999 F.2d 760"]
+---
+
+# Hanel v. Commissioner
+
+## Head matter
+
+Karl M. HANEL and Trenton E. Boisselier, Petitioners-Appellants, v. COMMISSIONER OF INTERNAL REVENUE, RespondentAppellee.
+No. 98-2354, 98-2355.
+United States Court of Appeals, Seventh Circuit.
+Submitted April 30, 2001 .
+Decided April 30, 2001.
+Before Hon. KANNE, Hon. ILANA DIAMOND ROVNER, Hon. WILLIAMS, Circuit Judges.
+After an examination of the briefs and the records, we have concluded that oral argument is unnecessary. Thus, these appeals are submitted on the briefs and the records. Fed. R.App. P. 34(a)(2).
+
+## Majority
+
+ORDER
+Karl Hanel and Trenton Boisselier appeal decisions of the tax court sustaining the Commissioner’s deficiency determinations. The appellants argue that the Commissioner offered no evidence linking them to an income-producing activity and therefore the deficiency determinations were not entitled to a presumption of correctness. We affirm.
+Hanel and Boisselier failed to file income tax returns for tax years 1992 through 1994 and 1991 through 1998, respectively. The IRS contacted them regarding their failures to file and requested to review their records, but both men responded with letters filled with tax protestor rhetoric. Because the appellants refused to cooperate, the Commissioner reconstructed their income using cost-of-living expenditure estimates compiled by the Bureau of Labor Statistics (BLS). This indirect method of income reconstruction, a reasonable one, is based on the theory that taxpayers have income sufficient to support themselves. See Palmer v. IRS, 116 F.3d 1309, 1312 (9th Cir.1997); Pollard v. Commissioner, 786 F.2d 1063, 1066 (11th Cir.1986); Andrews v. Commissioner, 76 T.C.M. (CCH) 381 (1998); Giddio v. Commissioner, 54 T.C. 1530, 1533, 1970 WL 2187 (1970). In reconstructing their income the Commissioner incorporated what little information he did have about Hanel and Boisselier. For example, Boisselier made mortgage interest payments of $2,170, $1,865, and $1,611 for tax years 1991, 1992, and 1993, respectively, so the Commissioner used these figures, instead of BLS housing expense estimates, in reconstructing his income. Similarly, Hanel paid rent totaling $6,000 in each of tax years 1992 through 1994, so the Commissioner used this figure, instead of BLS housing expense estimates, in reconstructing his income. Based on the income estimates, the Commissioner ultimately determined that Boisselier owed $3,127, $3,109, $3,134 for tax years 1991, 1992, and 1993, respectively, and that Hanel owed $5,999, $6,279, and $6,219 for tax years 1992, 1993, and 1994, respectively. The Commissioner also assessed penalties for failing to file income tax returns or make estimated tax payments. See I.R.C. §§ 6651(a)(1), 6654.
+Hanel and Boisselier petitioned the tax court for redeterminations. The tax court held bench trials, and when called by the Commissioner to testify, Hanel and Boisselier both responded to every question with, “I respectfully decline to answer this question based on my claims of the rights as guaranteed under the Fourth and Fifth Amendments.” The Commissioner also called an IRS agent (the same agent in both cases), who testified in detail as to the method used to reconstruct the income of each appellant. The tax court sustained the Commissioner’s deficiency determinations after Hanel and Boisselier failed to present any evidence of arbitrariness. The court further rejected their assertion that the presumption of correctness did not attach because the Commissioner offered no evidence linking them to an income-producing activity.
+The Commissioner’s determination of a tax deficiency is ordinarily entitled to a presumption of correctness. See Welch v. Helvering, 290 U.S. 111, 115, 54 S.Ct. 8, 78 L.Ed. 212 (1933); Pittman v. Commissioner, 100 F.3d 1308, 1313 (7th Cir.1996); Gold Emporium, Inc. v. Commissioner, 910 F.2d 1374, 1378 (7th Cir.1990). The presumption of correctness will not attach, however, if the Commissioner simply relies on the presumption without introducing any evidence linking the taxpayer to an income-producing activity. See Pittman, 100 F.3d at 1313; Gold Emporium, 910 F.2d at 1378; Zuhone v. Commissioner, 883 F.2d 1317, 1325 (7th Cir.1989); see also Palmer, 116 F.3d at 1313; Williams v. Commissioner, 999 F.2d 760, 763 (4th Cir.1993); Anastasato v. Commissioner, 794 F.2d 884, 887 (3d Cir.1986); Llorente v. Commissioner, 649 F.2d 152, 156 (2d Cir.1981).
+Contrary to Hanel and Boisselier’s assertion, the Commissioner did present evidence linking them to an income-producing activity. As for Hanel, he stipulated at trial that he was paying rent for tax years 1992 through 1994. As for Boisselier, he stipulated at trial that he was making mortgage interest payments for tax years 1991 through 1993 and that he purchased an automobile in 1993. See Portillo v. Commissioner, 932 F.2d 1128, 1133-34 (5th Gir.1991) (charge of unreported income may be substantiated by showing “taxpayer’s net worth, bank deposits, cash expenditures, or source and application of funds” (emphasis added)); Weimerskirch v. Commissioner, 596 F.2d 358, 362 (9th Cir.1979) (same). The unexplained source of these cash expenditures coupled with the reasonable inference that Hanel and Boisselier had income sufficient to support themselves necessarily links them to an income-producing activity. See Palmer, 116 F.3d at 1313 (where deficiency determination based on reasonable inference that taxpayer has income sufficient for support and statistics are used to reconstruct income, evidentiary foundation necessary for presumption to attach minimal). We further note that Hanel and Boissellier do not even contend that they are unconnected to an income-producing activity. See Zuhone, 883 F.2d at 1326; Day v. Commissioner, 975 F.2d 534, 537 (8th Cir.1992). The presumption of correctness therefore attached, and because Hanel and Boisellier made no effort to carry their burden of proving the deficiency determinations arbitrary, the tax court properly sustained them. See Gold Emporium, 910 F.2d at 1378.
+Accordingly, we AFFIRM the judgments of the tax court.
