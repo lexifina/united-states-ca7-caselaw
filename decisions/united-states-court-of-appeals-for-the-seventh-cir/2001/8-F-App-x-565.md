@@ -1,0 +1,31 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "01-1499"
+decided: "2001-05-04"
+citations: ["8 F. App'x 565"]
+parties: ["In the Matter of the Complaint of HOLLY MARINE TOWING, INCORPORATED, Owner of the Barge HMT 7, for Exoneration from or Limitation of Liability"]
+source_url: "https://static.case.law/f-appx/8/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 147826
+cites_cases: ["531 U.S. 438"]
+---
+
+# In re the Complaint of Holly Marine Towing, Inc.
+
+## Head matter
+
+In the Matter of the Complaint of HOLLY MARINE TOWING, INCORPORATED, Owner of the Barge HMT 7, for Exoneration from or Limitation of Liability
+No. 01-1499.
+United States Court of Appeals, Seventh Circuit.
+Submitted April 18, 2001.
+Decided May 4, 2001.
+Before Hon. RICHARD A. POSNER, Hon. FRANK H. EASTERBROOK, Hon. ANN CLAIRE WILLIAMS, Circuit Judges.
+
+## Majority
+
+Order
+State and federal courts have authority over different aspects of maritime accidents. State courts ordinarily may resolve claims by victims of torts, but the state litigation must give way to the extent necessary to protect any rights of maritime parties to limitation of-liability, for on that subject federal jurisdiction is exclusive. See Lewis v. Lewis & Clark Marine, Inc., 531 U.S. 438, 121 S.Ct. 993, 148 L.Ed.2d 931 (2001).
+Two cases pending in state court seek damages from Holly Marine Towing, Inc., which furnished a vessel that Baker, Heavy & Highway (BH & H) had leased to serve as a platform for a construction crane. When the crane toppled over, John Grindl drowned and Lonny Stahl suffered injuries. Stahl and Grindl’s estate (“plaintiffs”) filed separate suits naming as defendants JLG Industries, which supplied the crane, and Holly Marine as owner of the barge. (They did not sue BH & H, which enjoys the protection of the workers’ compensation laws.) JLG filed a cross-claim seeking indemnity from Holly Marine in the event JLG should be found liable. Meanwhile Holly Marine filed a federal action under the admiralty jurisdiction, seeking to limit its total liability to the value of the barge, which Holly Marine contends is $11,000. See 46 U.S.C.App. § 183(a). To protect Holly Marine’s rights while the extent of its potential liability remains to be determined, the district court initially enjoined prosecution of the actions in state court. But after plaintiffs filed promises (a) not to enforce any state judgment in a way that compromises Holly Marine’s federal rights, and (b) to waive in the state action any claim of res judicata relevant to the limitation-of liability question, the district court vacated its injunction. These promises (which everyone calls “stipulations,” though as unilateral declarations they are not stipulations) enable Holly Marine to disregard the state litigation with safety until its federal rights can be determined, the district judge concluded.
+Holly Marine has taken an appeal from this decision. Its concern is that JLG has not made the same promises as the state-court plaintiffs. Holly Marine fears that plaintiffs may recover from JLG, which will recover in turn from Holly Marine without regard to any federal limit of liability. The district judge thought otherwise, for two reasons: First, the judge wrote, by failing to protest the proceedings then under way in federal court JLG “may be deemed to have consented to this Court’s determination of the limitation issues.” Second, the judge thought that the promises plaintiffs already have made will fully protect Holly Marine, by preventing them from collecting any sum that will cause JLG to turn around and try to collect from Holly Marine more than the limit of its liability under § 183(a).
+As is evident from this background, Holly Marine enjoys considerably less protection than did Lewis & Clark Marine. The Supreme Court deemed it sufficient that the vessel owner enjoyed the benefit of a promise by the only adverse party in state court “that [the plaintiffs] claim did not exceed the limitation fund, [plus] petitioner’s waiver of any defense of res judicata with respect to limitation of liability”. 531 U.S. at 438, 121 S.Ct. at 1003. Here, by contrast, the claims pending in state court substantially exceed what Holly Marine views as its maximum exposure; moreover, although plaintiffs have promised not to collect any excess from Holly Marine and have promised not to plead res judicata (so that Holly Marine safely can confine its litigation efforts to the federal proceeding), JLG has made neither promise. In response to Holly Marine’s motion seeking interim relief from this court, JLG could have made those promises, making explicit what the district judge thought implicit. But JLG did not do anything of the kind; instead it argues only that because the plaintiffs have not yet prevailed in state court, it is premature to entertain Holly Marine’s request for relief. This posture exposes Holly Marine to a distinct risk that if it confines its litigation to federal court, some time down the road it will be met with an argument from JLG that it has waived or forfeited one or another right by not participating in the state litigation, or by participating while withholding from state court its position under § 183(a). Moreover, we think it unlikely that the promises the state plaintiffs have made preclude them from seeking more than $11,000 in damages from JLG. They are entitled to recover from JLG whatever entitlements they possess under state law; the federal limitations act does not cut down those claims.
+Holly Marine is entitled to effective protection, at least while its appeal proceeds. Accordingly, pending further order of this court, JLG is enjoined from prosecuting its cross-claim against Holly Marine in state court, unless JLG executes promises materially identical to those that plaintiffs already have executed. JLG is further enjoined from arguing, now or in the future, that any failure by Holly Marine to submit its limitations position to state court precludes it from raising that position and enjoying the benefit of any favorable resolution in the federal case, no matter which proceeding comes to judgment first.
