@@ -1,0 +1,34 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "00-2579"
+decided: "2001-04-26"
+citations: ["6 F. App'x 430"]
+judges: ["Before Hon. COFFEY, Hon. RIPPLE, and Hon. TERENCE T. EVANS, Circuit Judges."]
+parties: ["UNITED STATES OF AMERICA, Plaintiff-Appellee, v. Robert J. BROWN, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/6/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 154841
+cites_cases: ["10 F.3d 470", "146 F.3d 519", "164 F.3d 378", "18 U.S.C. § 3231", "20 F.3d 270", "21 U.S.C. § 841", "21 U.S.C. §§ 846", "223 F.3d 927", "224 F.3d 654", "230 F.3d 1000", "230 F.3d 1054", "238 F.3d 871", "386 U.S. 738", "43 F.3d 299", "466 U.S. 668", "530 U.S. 466"]
+---
+
+# United States v. Brown
+
+## Head matter
+
+UNITED STATES OF AMERICA, Plaintiff-Appellee, v. Robert J. BROWN, Defendant-Appellant.
+No. 00-2579.
+United States Court of Appeals, Seventh Circuit.
+Submitted April 26, 2001.
+Decided April 26, 2001.
+Before Hon. COFFEY, Hon. RIPPLE, and Hon. TERENCE T. EVANS, Circuit Judges.
+
+## Majority
+
+ORDER
+Robert J. Brown pleaded guilty to one count of conspiracy to distribute and possess with intent to distribute cocaine in violation of 21 U.S.C. §§ 846, 841(a). After granting a three-level reduction for acceptance of responsibility, see U.S.S.G. § 8E1.1, the district court sentenced Mr. Brown to 97 months’ imprisonment and five years’ supervised release. Mr. Brown’s counsel filed a notice of appeal but now seeks to withdraw under Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967), because he believes there are no nonfrivolous issues for appeal. Pursuant to Circuit Rule 51(b), Mr. Brown was notified of his counsel’s request to withdraw, and he has filed a lengthy response. After considering counsel’s brief and Mr. Brown’s response, we agree with counsel that the appeal is frivolous, and therefore grant counsel’s motion to withdraw and dismiss the appeal.
+Counsel suggests only one possible issue for appeal: whether the district court erred when it declined to award a “substantial-assistance” downward departure-purportedly under U.S.S.G. § 5K2.0-with-out any motion from the government. Counsel motioned for a substantial-assistance departure under § 5K2.0 when he discovered that the government did not plan to file the necessary motion for the district court to depart downward under § 5K1.1. See United States v. Santoyo, 146 F.3d 519, 523 (7th Cir.1998) (citing cases requiring government motion before district court can depart under § 5K1.1). We note, however, that a departure for substantial assistance normally must be awarded under § 5K1.1, see United States v. Fountain, 223 F.3d 927, 928 (8th Cir. 2000) (citing cases), and Mr. Brown could have received a substantial-assistance departure under § 5K2.0 only if he had shown “that he offered assistance that is so unusual in type or degree as to take it out of the heartland of § 5K1.1 cases.” See Santoyo, 146 F.3d at 526 n. 5. Mr. Brown offered no evidence at the sentencing hearing to suggest his assistance was so substantial as to meet the Santoyo standard, and thus, a possible argument that he could have received a substantial-assistance departure under § 5K2.0 would be frivolous.
+In his Circuit Rule 51(b) response, Mr. Brown also addresses the district court’s denial of a downward departure under § 5K2.0 but frames the potential argument as whether the district court failed to consider five mitigating factors: “sentenee entrapment,” the disparity between his sentence and his co-defendant’s sentence, alleged violations of his constitutional rights, that some of the drugs he carried were allegedly for his personal use, and that his offense behavior was “atypical.” These factors, however, were never presented to the district court as grounds for considering a § 5K2.0 departure. Thus, even putting aside the jurisdictional impediment to reviewing discretionary refusals to depart, it would be frivolous for Mr. Brown to argue on appeal that the district court wrongly failed to depart below the guideline range. See United States v. Cruz-Velasco, 224 F.3d 654, 663-64 (7th Cir.2000); United States v. Dillard, 43 F.3d 299, 311 (7th Cir.1994).
+Mr. Brown also suggests several additional potential issues in his response, but none could serve as the basis of an appeal. Mr. Brown waived most of his proposed arguments, including all of his constitutional challenges to his arrest, when he pleaded guilty. See United States v. Robinson, 20 F.3d 270, 273 (7th Cir.1994). Thus, only claims of jurisdictional defects or the invalidity of his guilty plea would remain. See id. In this respect, Mr. Brown suggests that the district court lacked jurisdiction to prosecute his case. The court’s jurisdiction to convict and sentence Mr. Brown, however, is secure, see 18 U.S.C. § 3231; Hugi v. United States, 164 F.3d 378, 380 (7th Cir.1999); United States v. Janik, 10 F.3d 470, 471 (7th Cir.1993), and any challenge to that jurisdiction would be frivolous.
+Next, because the plea agreement reserved Mr. Brown’s right to appeal his sentence, he suggests a possible argument that Apprendi v. New Jersey, 530 U.S. 466, 120 S.Ct. 2348, 147 L.Ed.2d 435 (2000), requires that the drug quantity involved in his offense should have been alleged in his indictment. But Mr. Brown was sentenced below the default 20-year maximum prison term for a cocaine offense under § 841(a), see 21 U.S.C. § 841(b)(1)(c), and thus Apprendi is inapposite. See United States v. Williams, 238 F.3d 871, 877 (7th Cir.2001).
+Finally, Mr. Brown suggests that an argument could be made that his trial counsel was ineffective in six respects: failing to raise constitutional challenges to Mr. Brown’s arrest, failing to challenge the jurisdiction of the district court, failing to adequately prepare for trial and thus recommending that Mr. Brown enter a guilty plea, failing to challenge the presentence report, misrepresenting what would occur at the sentencing hearing, and now asking to withdraw from this appeal. We have said that direct appeal is rarely the appropriate place to raise an ineffective assistance claim because the trial record typically lacks sufficient development to review the issue, see United States v. Harris, 230 F.3d 1054, 1059 (7th Cir. 2000); United States v. Lopeztegui, 230 F.3d 1000, 1004 (7th Cir.2000), and this case is no exception. Our review of the present record shows it to be inadequate to determine whether any action taken by trial counsel was either objectively unreasonable or caused prejudice to the defendant, the standard by which we would evaluate an ineffective assistance claim. See Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984).
+Having concluded that no nonfrivolous issues for appeal exist, we GRANT counsel’s motion to withdraw and DISMISS the appeal.
