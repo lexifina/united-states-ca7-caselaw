@@ -1,0 +1,34 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "97-2929"
+decided: "2001-01-30"
+citations: ["2 F. App'x 507"]
+parties: ["Miles BARNES, Plaintiff-Appellant, v. Anthony RAMOS, et al., Defendants-Appellees."]
+source_url: "https://static.case.law/f-appx/2/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 133970
+cites_cases: ["128 F.3d 1173", "130 F.3d 754", "147 F.3d 589", "191 F.3d 834", "237 F.3d 881", "42 U.S.C. § 1983", "511 U.S. 825", "515 U.S. 472", "71 F.3d 1246"]
+---
+
+# Barnes v. Ramos
+
+## Head matter
+
+Miles BARNES, Plaintiff-Appellant, v. Anthony RAMOS, et al., Defendants-Appellees.
+No. 97-2929.
+United States Court of Appeals, Seventh Circuit.
+Submitted Oct. 10, 2000.
+Decided Jan. 30, 2001.
+Before POSNER, EASTERBROOK, WILLIAMS, Circuit Judges.
+After an examination of the briefs and the record, we have concluded that oral argument is unnecessary. Thus, the appeal is submitted on the briefs and the record. See Fed. R.App. P. 34(a)(2).
+
+## Majority
+
+ORDER
+Illinois inmate Miles Barnes filed this civil rights action under 42 U.S.C. § 1983 alleging that various prison officials violated his Eighth and Fourteenth Amendment rights in connection with a disciplinary proceeding against him. The district court dismissed two defendants on summary judgment and later at trial entered judgment as a matter of law for a third. The jury returned verdicts in favor of Barnes against two other defendants, awarding him a total of $60 in compensatory damages and $140 in punitive damages. The jury also ruled in favor of another defendant. Barnes appeals and we affirm.
+In 1994 Barnes and 12 other inmates started a series of fires at Stateville Correctional Center in Joliet, Illinois. Correctional Officer Henry Lienemann observed Barnes throw flammable material on one of the fires. At the direction of Lieutenant Stephen Magne, Lienemann issued a disciplinary report accusing Barnes of arson and property damage. The prison’s Adjustment Committee, which included Committee Chairperson Adrienne Johnson and Correctional Officer Dolly Carter, conducted a hearing and found Barnes guilty of both offenses. The Adjustment Committee demoted Barnes to “C-grade” status for two months and suspended his commissary, out-of-cell exercise, and yard privileges for 90 days.
+Barnes filed suit in late 1994, alleging that Magne, Superintendent Anthony Ramos, and Captain Edward Lyles violated the Eighth Amendment by denying him the opportunity to exercise outside his cell; that Johnson and Carter violated his right to due process by denying him a fair hearing; and that Magne and Lienemann violated his right to due process by filing false disciplinary charges in retaliation for Barnes having previously filed an excessive force claim against Magne. The district court granted summary judgment in favor of Magne, Ramos and Lyles on the Eighth Amendment claim. The remaining claims were tried in 1997, and after Barnes presented his case to the jury, the district court granted Magne’s motion for judgment as a matter of law as to the retaliation claim, but denied a like motion from Lienemann. The jury found Carter and Johnson liable on Barnes’s unfair hearing claim, but returned a verdict in favor of Lienemann on the retaliation claim.
+On appeal, Barnes first argues that the district court erred in granting summary judgment on his exercise claim. Barnes has an Eighth Amendment right to “adequate food, clothing, shelter, and medical care,” see Farmer v. Brennan, 511 U.S. 825, 832, 114 S.Ct. 1970, 128 L.Ed.2d 811 (1994), but conditions of confinement that do not fall below contemporary standards of decency are not unconstitutional, Thomas v. Ramos, 130 F.3d 754, 763 (7th Cir.1997). Barnes merely alleged that the defendants suspended his out-of-cell exercise privileges for 90 days, a point that is conceded but still short of establishing a constitutional violation. See Pearson v. Ramos, 237 F.3d 881, 884-85 (7th Cir. 2001) (denial of yard privileges for no more than 90 days at a stretch is not cruel and unusual punishment), Thomas, 130 F.3d at 763 (lack of exercise may give rise to Eighth Amendment violation in limited circumstances where movement is denied, muscles are allowed to atrophy, and the inmate’s health is threatened). Moreover, Barnes offered no evidence that he was denied the right to exercise in his cell. See Thomas, 130 F.3d at 764 (no Eighth Amendment violation where prisoner had room in his cell to engage in exercise such as push-ups, sit-ups, jogging in place, and step-ups). Accordingly, the district court correctly granted summary judgment to the defendants
+Barnes then challenges a number of evidentiary and other rulings made by the district court at trial, and also argues that the lawyer who represented him at the request of the court was ineffective. But of course Barnes had no right to the effective assistance of counsel, see Pokuta v. Trans World Airlines, Inc., 191 F.3d 834, 840 (7th Cir.1999), and we need not address his remaining issues because even assuming that such errors occurred, Barnes could not have suffered prejudice. Barnes alleged in his procedural due process claim that Johnson and Carter conducted an unfair hearing and imposed an unjust punishment. Plaintiffs who bring a § 1983 action for procedural due process violations must first establish the deprivation of a constitutionally protected interest in life, liberty or property. Williams v. Ramos, 71 F.3d 1246, 1248 (7th Cir.1995) (per curiam). Barnes alleged and set out to prove at trial that he was deprived of “liberty” as a result of the 90-day suspension of his commissary, out-of-cell exercise, and yard privileges. But under Sandin v. Conner, 515 U.S. 472, 484, 115 S.Ct. 2293, 132 L.Ed.2d 418 (1995), Barnes was required to demonstrate that his punishment resulted in atypical and significant hardship in relation to the ordinary incidents of prison life. Our cases make clear that the punishment imposed on Barnes could not pass this threshold, see e.g., Nance v. Vieregge, 147 F.3d 589, 590 (7th Cir.1998); Wagner v. Hanks, 128 F.3d 1173, 1176 (7th Cir.1997), and so Barnes could not have been harmed by alleged irregularities at trial with respect to his unfair hearing claim because it never should have made it to the jury in the first place.
+Only Barnes’s retaliation claim remains. But like his unfair hearing claim, Barnes could not have been prejudiced by the district court’s rulings because he offered no evidence to support his allegation that Magne and Lienemann initiated charges against him in retaliation for filing suit against Magne. Indeed, Barnes’s counsel acknowledged at trial that there was no evidence to support the claim.
+The judgment of the district court is AFFIRMED.
