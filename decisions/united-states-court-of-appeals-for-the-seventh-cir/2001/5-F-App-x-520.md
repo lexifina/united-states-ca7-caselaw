@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "00-3499"
+decided: "2001-03-06"
+citations: ["5 F. App'x 520"]
+judges: ["Before EASTERBROOK, MANION, and DIANE P. WOOD, Circuit Judges."]
+parties: ["UNITED STATES OF AMERICA, Plaintiff-Appellee, v. Kenneth GOLUMB, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/5/cases/0520-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 157822
+cites_cases: ["125 F.3d 583", "18 U.S.C. § 1951", "201 F.3d 900", "211 F.3d 437", "217 F.3d 494", "217 F.3d 506", "386 U.S. 738", "777 F.2d 364"]
+---
+
+# United States v. Golumb
+
+## Head matter
+
+UNITED STATES OF AMERICA, Plaintiff-Appellee, v. Kenneth GOLUMB, Defendant-Appellant.
+No. 00-3499.
+United States Court of Appeals, Seventh Circuit.
+Submitted March 5, 2001.
+Decided March 6, 2001.
+Before EASTERBROOK, MANION, and DIANE P. WOOD, Circuit Judges.
+After an examination of the briefs and the record, we have concluded that oral argument is unnecessary. Thus, the appeal is submitted on the briefs and the record. Fed. R.App. P. 34(a)(2).
+
+## Majority
+
+ORDER
+Kenneth Golumb pleaded guilty to one count of conspiracy to commit extortion, 18 U.S.C. § 1951. He was sentenced to 33 months in prison, 36 months of supervised release, a $100 assessment, and a $20,000 fine. Golumb filed a timely notice of appeal, but his appointed counsel has moved to withdraw under Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967), because he believes an appeal to be without merit or possibility of success. Pursuant to Circuit Rule 51(b), Golumb was notified of the opportunity to respond to his counsel’s motion to withdraw, but he did not do so. Having considered counsel’s brief, we grant counsel’s motion to withdraw and dismiss the appeal.
+On November 17, 1999, Golumb was arrested on a criminal complaint charging that while employed at an Illinois driver’s license facility he took bribes from a driving school instructor in exchange for passing the school’s students on their driver’s license examination “road tests.” Golumb was interrogated after his arrest and gave a statement admitting the scheme. He eventually entered a guilty plea without a written plea agreement to a one-count superseding information, and a presentence investigation report (“PSR”) was prepared. In the PSR the probation officer estimated that Golumb pocketed $132,300 from the scheme and should be held accountable for another $188,000, the amount that other defendants in the conspiracy procured, for a total of $320,300. The probation officer recommended against a decrease under U.S.S.G. § 3E1.1 for acceptance of responsibility.
+Golumb, through counsel, filed numerous objections to the PSR that led to a protracted sentencing hearing. At the hearing two of the federal agents who interrogated Golumb after his arrest testified that he admitted collecting $150 to $350 in bribes per day since 1997. Furthermore, one agent testified that in searching Golumb during the arrest he found $452 in currency which Golumb admitted was partly from bribes he accepted that day. In contrast Golumb testified that his take was $40 to $100 per week, totaling just $8,000 during the entire conspiracy. Golumb also testified that he would fail a bad driver and refuse the bribe if the driver indeed failed a road exam. The district court credited the agents’ testimony regarding the amount of bribe money Golumb kept, estimating the total to have been $120,000. With respect to the acceptance-of-responsibility adjustment, the district court concluded that Golumb’s estimate of his gain from the conspiracy was “ludicrously low,” and noted that Golumb continued to insist that the bribes he accepted never affected his decisions to fail or pass a driving student. Thus, the district court denied a downward adjustment for acceptance of responsibility-
+Before examining the points counsel identifies, we first note that his Anders brief just barely meets the minimum standard this circuit deems acceptable. In order for an Anders brief to be facially adequate, it must explain “ ‘the nature of the case and intelligently discuss[] the issues that a case of the sort might be expected to involve.’” United States v. Hamzat, 217 F.3d 494, 501 (7th Cir.2000) (quoting United States v. Tabb, 125 F.3d 583, 584 (7th Cir.1997)); see United States v. Edwards, 777 F.2d 364, 366 (7th Cir.1985). The brief counsel has prepared in this case is extremely short, and many of counsel’s statements in the brief are conclusory or made without citations to legal authority. Nevertheless, we have examined the potential issues counsel has identified and examined the related portions of the record, see Tabb, 125 F.3d at 584, and agree with counsel that the potential issues he evaluates would be frivolous if pursued on appeal.
+Counsel first considered whether Golumb could challenge the district court’s determination of the total amount of bribes Golumb received during the course of the conspiracy. In concluding that Golumb personally accepted $120,000, the district court credited the testimony of the two federal agents instead of crediting Golumb’s testimony that he procured just $8,000. We would review the district court’s calculation of relevant conduct for clear error, see United States v. Kroledge, 201 F.3d 900, 905 (7th Cir.2000), and it would do Golumb no good to attack this calculation because we will not reexamine a credibility determination unless there is evidence that the testimony is not possible, see United States v. Durham, 211 F.3d 437, 443 (7th Cir.2000). Here, the district court’s findings regarding the bribe amount will easily withstand clear error review, and so we believe that an appeal raising this issue would be frivolous.
+Next, counsel rejected a potential argument that the district court erred in denying Golumb a decrease in offense level for acceptance of responsibility. Here again we would review only for clear error. See United States v. Zehm, 217 F.3d 506, 515 (7th Cir.2000). The district court in this case refused a reduction after finding that Golumb’s own estimation of the amount of bribes he kept was “ludicrously low,” and because Golumb insisted that the bribes he accepted did not affect his decision to pass or fail a driver’s license applicant. If that were not enough, Golumb’s testimony at the hearing contradicted the agents’ account of the dollar figure he gave during his post-arrest confession. In addition, the agents testified that Golumb had attempted to retract his earlier statements that he received $150 to $300 in bribes per work day. We have upheld the denial of an acceptance-of-responsibility reduction based on a defendant’s denial of relevant conduct in the face of testimony supporting the relevant conduct amount. See id. at 516. Accordingly, we agree with counsel that any potential challenge to the denial of the acceptance of responsibility adjustment would be frivolous.
+For the foregoing reasons, we GRANT counsel’s motion to withdraw and DISMISS the appeal.
