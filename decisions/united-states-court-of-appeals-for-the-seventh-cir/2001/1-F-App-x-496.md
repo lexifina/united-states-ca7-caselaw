@@ -1,0 +1,34 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "00-3135"
+decided: "2001-01-03"
+citations: ["1 F. App'x 496"]
+parties: ["Thomas L. KIMMONS, Plaintiff-Appellant, v. WAUPUN PROPERTY STAFF, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/1/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 137220
+cites_cases: ["212 F.3d 353", "42 U.S.C. § 1983", "468 U.S. 517", "494 U.S. 113", "5 F.3d 1031", "95 F.3d 548", "95 F.3d 580", "Wis. Stat. §§ 893.35"]
+---
+
+# Kimmons v. Waupun Property Staff
+
+## Head matter
+
+Thomas L. KIMMONS, Plaintiff-Appellant, v. WAUPUN PROPERTY STAFF, Defendant-Appellee.
+No. 00-3135.
+United States Court of Appeals, Seventh Circuit.
+Submitted Dec. 19, 2000.
+Decided Jan. 3, 2001.
+Before Hon. COFFEY, Hon. MANION, and Hon. DIANE P. WOOD, Circuit Judges.
+After an examination of the briefs and the record, we have concluded that oral argument is unnecessary. Thus, the appeal is submitted on the briefs and the record. See Fed. R.App. P. 34(a)(2).
+
+## Majority
+
+ORDER
+Inmate Thomas Kimmons filed this pro se lawsuit under 42 U.S.C. § 1983 alleging that unknown correctional officers at Wau-pun Correctional Institution in Wisconsin destroyed his television set, fifteen postage stamps, and two photographs without providing him procedural due process. The district court dismissed Kimmons’s complaint for failure to state a claim, see Fed. R. Civ. P. 12(b)(6). We affirm.
+In April 1998, Waupun officials seized Kimmons’s television set as contraband. Kimmons alleges that he reached an agreement with the property sergeant that the television would be placed in storage until a replacement part arrived from the manufacturer. An unknown Waupun official wrote a confiscation slip for the television describing it as contraband, but the officer also wrote “hold” on the slip, followed by the date of confiscation. On July 15, 1998, a Waupun official confiscated 15 postage stamps from Kimmons. Sometime later in July, Kimmons, temporarily located in another Wisconsin Department of Corrections facility, requested that his television and postage stamps be returned to him. Kimmons received a phone message on July 27, 1998, assuring him that his property would be forwarded to him. But on August 24, 1998, when he still had not received the property, Kimmons filed a grievance, complaining that Waupun officials had destroyed the television and the stamps. Kimmons acknowledged that Waupun’s practice is to destroy confiscated property if an inmate has not made other arrangements for its disposition within thirty days. An institutional complaint examiner (“ICE”) investigated Kimmons’s grievance and determined that the television had been destroyed, Wis. Admin. Code § DOC 303.10, and that Waupun had no record that of any confiscated postage stamps. In February 1999, Waupun offi-ciáis confiscated two photographs because they believed them to be gang-related. Kimmons filed a grievance arguing that the photographs were not gang-related, but only depicted him at a concert. An ICE reviewed Kimmons’s grievance, but determined that the photographs were gang-related, and so Kimmons’s grievance was dismissed and the photographs were destroyed.
+Kimmons then filed this action, alleging in his amended complaint that unknown Waupun officials violated his procedural due process rights when they destroyed his television and stamps without first providing him notice so that he could file a grievance under § DOC 303.10(4) and that the photographs were not gang-related and should not have been destroyed. The defendants moved to dismiss, citing Zinermon v. Burch, 494 U.S. 113, 128-132, 110 S.Ct. 975, 108 L.Ed.2d 100 (1990), and arguing that because adequate state post-deprivation remedies existed Kimmons’s complaint failed to state a § 1983 claim. In response, Kimmons repeated his procedural due process claim and also added, though only in passing, a substantive due process claim that both the defendants and the district court later addressed even though on the facts presented it was wholly frivolous. Kimmons also moved for discovery, seeking the district court’s assistance in identifying the defendants by name. See Donald v. Cook County Sheriffs Dept. 95 F.3d 548, 555 & 555 n. 3 (7th Cir.1996) (district court should have assisted incarcerated, pro se § 1983 plaintiff who stated a colorable claim in determining identities of unnamed defendants). The district court granted the defendants’ motion to dismiss and denied Kimmons’s discovery request as moot.
+We review the dismissal of a complaint for failure to state a claim de novo. Hanania v. Lorew-Maltese, 212 F.3d 353, 356 (7th Cir.2000). We accept as true all facts alleged in the complaint and draw all reasonable inferences from them in the plaintiffs favor. Id. We will affirm the dismissal of a complaint if it is clear that no relief could be granted under any set of facts that could be proved consistent with the allegations. Id.
+The Wisconsin Administrative Code provides that property seized as contraband “may be returned to the true owner, placed in storage, or sent at the inmate’s expense to another.” Wis. Admin. Code § 303.10(3)(d). The Code further provides that an inmate believing that “property should be returned, placed in storage or sent out at his or her direction, and a decision to dispose of it in a different manner has been made, the inmate may file a grievance [and] the property shall not be disposed of until the grievance is resolved.” Wis. Admin. Code § 303.10(4).
+Kimmons argues that, when Waupun officials destroyed his television, stamps, and photographs, they violated his procedural due process rights because they ignored both their agreement with him and the procedures for the disposition of contraband. But if the Waupun officials did as Kimmons alleged (and for purposes here we assume that they did), then the district court properly characterized their actions as random and unauthorized, and the destruction of Ms property was not the result of a constitutionally infirm procedure. When state officials’ conduct is random and unauthorized, due process requires only that an adequate post-deprivation remedy exist. See, e.g., Zinermon, 494 U.S. at 128-130; Hudson v. Palmer, 468 U.S. 517, 533, 104 S.Ct. 3194, 82 L.Ed.2d 393 (1984); Stewart v. McGinnis, 5 F.3d 1031, 1035-36 (7th Cir.1993). We have previously held that Wisconsin’s post-deprivation procedures are adequate. Hamlin v. Vaudenberg, 95 F.3d 580, 585 (7th Cir.1996) (discussing the grievance procedure under Wis. Admin. Code § DOC 303.10(4) and state law tort claims); see also Wis. Stat. §§ 893.35, 893.51, & 893.52 (state-law tort remedies available in Wisconsin).
+Accordingly, Kimmons failed to state a claim upon which relief can be granted and the district court’s dismissal is AFFIRMED.
