@@ -1,0 +1,35 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "00-3253"
+decided: "2001-02-20"
+citations: ["3 F. App'x 558"]
+judges: ["Before Hon. BAUER, Hon. COFFEY, and Hon. DIANE P. WOOD, Circuit Judges."]
+parties: ["In re: Joseph P. MONAHAN, II Debtor-Appellant. Joseph P. Monahan, II, Defendant-Appellant, v. DVI Financial Services, Inc., Plaintiff-Appellee."]
+source_url: "https://static.case.law/f-appx/3/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 164376
+cites_cases: ["100 F.3d 162", "11 U.S.C. § 523", "182 F.3d 144", "207 F.3d 928", "375 U.S. 384", "489 U.S. 169", "69 F.3d 830", "747 F.2d 605", "790 F.2d 47", "815 F.2d 345", "855 F.2d 455", "957 F.2d 26"]
+cites_law: ["united-states/federal/usc/title-11/523.md"]
+---
+
+# Monahan v. DVI Financial Services, Inc.
+
+## Head matter
+
+In re: Joseph P. MONAHAN, II Debtor-Appellant. Joseph P. Monahan, II, Defendant-Appellant, v. DVI Financial Services, Inc., Plaintiff-Appellee.
+No. 00-3253.
+United States Court of Appeals, Seventh Circuit.
+Argued Jan. 31, 2001.
+Decided Feb. 20, 2001.
+Before Hon. BAUER, Hon. COFFEY, and Hon. DIANE P. WOOD, Circuit Judges.
+
+## Majority
+
+ORDER
+After Joseph Monahan failed to file a timely notice of appeal from a bankruptcy court decision, the district court dismissed his appeal for lack of jurisdiction. Monahan, proceeding pro se, now argues that his untimely appeal should have been allowed to go forward because he was given erroneous advice by a district court clerk about the deadline for appealing a bankruptcy decision. We affirm.
+On May 3, 2000, following a two-day bench trial, a bankruptcy court entered judgment in favor of DVI Financial Services on its adversary complaint against Monahan, ruling that Monahan’s debt to DVI was not dischargeable in bankruptcy because the debt was obtained by false pretenses, a false representation, or actual fraud, 11 U.S.C. § 523(a)(2)(A). Monahan claims that he never received notice of the bankruptcy court’s judgment. When he heard nothing, Monahan relates, he personally went to the bankruptcy court on May 8 to determine whether any judgment had been entered and, if so, by when did he have to file his notice of appeal. At the bankruptcy court clerk’s office, Monahan learned that on May 3 a judgment had in fact been entered against him. Monahan asserts that he then requested a copy of the local bankruptcy rules from a bankruptcy court clerk. He says that he briefly reviewed the rules at the bankruptcy clerk’s office, but was confused and thought that the rules might be incomplete. Monahan asked the bankruptcy court clerk a question about the section of the rules discussing appeals; the bankruptcy clerk, Monahan recalls, directed him to inquire at the district court clerk’s office. At the district court clerk’s office, Monahan says that a clerk informed him that he had thirty days to file a notice of appeal. Monahan apparently never examined the language of the rules themselves. Monahan then filed a notice of appeal with the bankruptcy court on May 23, 2000. Because more than ten days had lapsed after the bankruptcy court entered its judgment, see Bankr.R. 8002(a), the district court dismissed Monahan’s untimely appeal for lack of jurisdiction and denied his subsequent motion for reconsideration. Monahan now appeals.
+Bankruptcy Rule 8002(a) requires that a notice of appeal from a bankruptcy court’s decision be filed within ten days from the entry of judgment, and failure to do so deprives the district court of jurisdiction. See, e.g., In the Matter of Maurice, 69 F.3d 830, 832 (7th Cir.1995); In re Longardner & Assoc., Inc., 855 F.2d 455, 464 (7th Cir.1988); Stelpflug v. Federal Land Bank of St. Paul, 790 F.2d 47, 49 (7th Cir.1986). Monahan admits that his notice of appeal from the bankruptcy court’s judgment was not timely filed, but argues that the so-called doctrine of “unique circumstances” gives the district court jurisdiction over his appeal. This doctrine creates a limited exception to the jurisdictional bar against untimely appeals by treating some steps in the appellate process as if they had been done on time. See Osterneck v. Ernst & Whinney, 489 U.S. 169, 178-79, 109 S.Ct. 987, 103 L.Ed.2d 146 (1989); Thompson v. INS, 375 U.S. 384, 387, 84 S.Ct. 397, 11 L.Ed.2d 404 (1964) (per curiam); United States v. Hirsch, 207 F.3d 928, 930 (7th Cir.2000). In Osterneck, the Supreme Court stated that the doctrine will excuse an untimely notice of appeal “only where a party has performed an act which, if properly done, would postpone the deadline for filing his appeal and has received specific assurance by a judicial officer that this act has been properly done.” Osterneck, 489 U.S. at 179, 109 S.Ct. 987.
+This court has explicitly held that the doctrine of unique circumstances does not apply when a subordinate employee of the court misleads or inaccurately advises a party regarding the timeliness of an appeal. See Sonicraft, 814 F.2d at 387. In Sonicraft, a staff attorney allegedly misinformed counsel that a petition to review the National Labor Relations Board’s denial of attorneys fees would be timely if mailed (as opposed to received) within thirty days. Id. at 386. We noted that the deadline was jurisdictional and further held that “subordinate employees of the judiciary have no authority to waive congressional limitations on judicial power.” Id. at 387.
+Other circuits, two of them relying in part on Sonicraft, have also held that the unique circumstances exception is inapplicable when a party receives erroneous advice from a clerk’s office. See, e.g., Rezzonico v. H & R Block, Inc., 182 F.3d 144, 152 (2nd Cir.1999) (citing Sonicraft) (district court clerk’s office provided erroneous information regarding the deadline for filing an appeal); Moore v. South Carolina Labor Bd., 100 F.3d 162, 164 (D.C.Cir.1996) (per curiam) (clerk erroneously informed pro se litigant that he had 60 days to file a notice of appeal-instead of 30-because the government was a party); United States v. Heller, 957 F.2d 26, 30-31 (1st Cir.1992) (citing Sonicraft) (clerk erroneously informed litigant that he had 60, rather than 30, days to file a notice of appeal); see also Neeley v. Murchison, 815 F.2d 345, 347 (5th Cir.1987).
+Monahan recognizes this precedent but urges us to disregard it. He relies instead on a decision from the Eleventh Circuit, see Willis v. Newsome, 747 F.2d 605 (11th Cir.1984) (per curiam). Willis is not the law of this circuit and, in any event, is distinguishable. In Willis, the court permitted the appellant to maintain an otherwise untimely appeal where he relied on a clerk’s representation regarding the “local custom” in the clerk’s office of stamping notices of appeal. See Willis, 747 F.2d at 606. No such “local custom” is at issue in this case. The erroneous advice Monahan claims to have received from the district court clerk involves the substance of Bankruptcy Rule 8002(a)-the amount of time allotted to file a notice of appeal. Monahan’s facts thus parallel Sonicraft more closely than Willis.
+AFFIRMED.
