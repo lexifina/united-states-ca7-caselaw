@@ -1,0 +1,34 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "00-3478"
+decided: "2001-02-09"
+citations: ["2 F. App'x 556"]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Elga SHELBY, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/2/cases/0556-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 133888
+cites_cases: ["121 F.3d 316", "197 F.3d 287", "21 U.S.C. § 841", "21 U.S.C. § 851", "230 F.3d 254", "34 F.3d 514", "73 F.3d 706", "951 F.2d 751"]
+---
+
+# United States v. Shelby
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Elga SHELBY, Defendant-Appellant.
+No. 00-3478.
+United States Court of Appeals, Seventh Circuit.
+Argued Jan. 31, 2001.
+Decided Feb. 9, 2001.
+Before BAUER, COFFEY, and DIANE P. WOOD, Circuit Judges.
+
+## Majority
+
+ORDER
+Elga Shelby pleaded guilty to possession of cocaine and cocaine base with intent to distribute, in violation of 21 U.S.C. § 841(a)(1), and was sentenced to 262 months’ imprisonment. On appeal, Shelby challenges his sentence on two grounds: first, that the district court should not have classified him as a career criminal under § 4B1.1 of the U.S. Sentencing Guidelines, and second, that his sentence is unconstitutional because it results from the dramatic difference in treatment under the Guidelines between cocaine base and powder cocaine. Finding no merit in either of these points, we affirm.
+In January 2000 Shelby was charged with distribution of cocaine and with possession of cocaine and cocaine base (here, crack) with intent to distribute. Following his indictment, the government filed a notice of prior conviction under 21 U.S.C. § 851, which is a special statute governing sentencing for recidivist drug defendants. The notice indicated that Shelby had two prior felony drug convictions, by virtue of which he was subject to the mandatory term of life imprisonment provided by 21 U.S.C. § 841(b)(1)(A) for defendants convicted under § 841 who had two or more prior convictions for felony drug offenses. Shelby later pleaded guilty to the second count of the indictment.
+In the presentence report, the probation officer concluded that Shelby was a career offender for purposes of the Sentencing Guidelines, § 4B1.1, which takes into account a defendant’s past felony drug convictions, as well as any prior felony convictions for crimes of violence, for purposes of computing both criminal history and offense level. The Guidelines do not change the statutory maximum punishment; they simply pinpoint where within permitted statutory ranges a defendant should be placed. The probation officer pointed to two prior convictions for purposes of the PSR: the first was one of the prior drug convictions that the government had identified in its § 851 notice, and the second was a prior conviction for unlawful restraint. Taken together, these made Shelby a “career offender” for purposes of § 4B1.1. His criminal history category was VI, because of that classification, and his offense level was 34, which produced a sentencing range of 262 to 327 months. Nonetheless, the probation officer went on to explain, the existence of Shelby’s two prior felony drug convictions meant that he was subject to a minimum statutory sentence of life in prison, by virtue of 21 U.S.C. §§ 841(a)(1) and 841(b)(1)(A).
+Shelby filed several objections to the presentence report, but the district court struck only one sentence in the end (which did not pertain to this appeal), and it otherwise adopted the probation officer’s findings in full. The court then granted the government’s motion for a downward departure from the mandatory minimum life sentence, based upon Shelby’s substantial assistance. It sentenced Shelby to 262 months’ imprisonment, to be followed by 10 years of supervised release, and it ordered a forfeiture of $2,421.
+Shelby’s brief, which is one of the briefest briefs we could accept and still be able to follow the argument, appears to complain about the probation officer’s reliance on the unlawful restraint conviction for purposes of the analysis of his sentence under § 4B1.1 of the Guidelines. He argues, and we agree, that an unlawful restraint conviction would not qualify as one of the “prior convictions for a felony drug offense” needed to raise the mandatory sentence up to life in prison under 21 U.S.C. § 841(b)(1)(A). But that is not how the government was using it. The PSR simply calculates the sentence Shelby would have faced, had the government not filed its § 851 notice, and then it goes on to explain that the existence of the notice and the two qualifying prior felony drug offenses trumped the Guideline range that would otherwise have applied. Shelby seems to argue that there is, or ought to be, a prior notice requirement for purposes of § 4B1.1 that mirrors 21 U.S.C. § 851. As we have pointed out before, there is no law to that effect. See United States v. Galati 230 F.3d 254, 263 (7th Cir.2000); Damerville v. United States, 197 F.3d 287, 289 (7th Cir.1999). United States v. Jackson, 121 F.3d 316 (7th Cir.1997), on which Shelby relies, is in fact entirely consistent with the other cases and does not support his contention.
+In any event, Shelby’s focus on the part of the PSR that analyzed his Guideline sentencing level is misplaced. As the government points out, Shelby was ultimately sentenced through a different route. He would have had a mandatory life sentence, because of the statute, had it not been for the government’s motion for a downward departure. That motion had the practical effect of bringing his sentence back down to what it might have been had the Guidelines been operating in isolation, but it did not make his sentence one directly attributable to the Guidelines.
+We have little to say about his other argument, which is that § 2D1.1 of the Guidelines violates due process and constitutes cruel and unusual punishment because it treats crack cocaine offenses and powder cocaine offenses differently. Shelby concedes that he has no authority to support his constitutional arguments, which is an understatement. Regardless of the wisdom of the policy that results in far harsher treatment for crack offenses, this court and all others to consider the issue have concluded that it is legally permissible. See, e.g., United States v. Smith, 34 F.3d 514, 525 (7th Cir.1994) (rejecting Eighth Amendment challenge); United States v. Lawrence, 951 F.2d 751, 753-56 (7th Cir.1991) (rejecting due process challenge); see also United States v. Booker, 73 F.3d 706, 710 (7th Cir.1996) (collecting cases). Policy arguments must be directed elsewhere; our obligation as a court is to follow settled law. Doing so, we have no choice but to reject Shelby’s effort to resuscitate this issue.
+The judgment of the district court is Affirmed.
