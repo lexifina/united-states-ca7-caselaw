@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Seventh Circuit"
+docket: "00-3982"
+decided: "2001-05-22"
+citations: ["9 F. App'x 544"]
+judges: ["Before POSNER, EVANS, WILLIAMS, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Raymond KING, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/9/cases/0544-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 143903
+cites_cases: ["110 F.3d 1281", "125 F.3d 401", "239 F.3d 865", "240 F.3d 656"]
+---
+
+# United States v. King
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Raymond KING, Defendant-Appellant.
+No. 00-3982.
+United States Court of Appeals, Seventh Circuit.
+Argued April 24, 2001.
+Decided May 22, 2001.
+Before POSNER, EVANS, WILLIAMS, Circuit Judges.
+
+## Majority
+
+ORDER
+While serving a four-year supervised release term imposed as part of his sentence for possessing crack cocaine with intent to distribute, Raymond King allegedly violated the terms of his release by stabbing his then-girlfriend, Nina Buckner, eight times with a steak knife. King’s probation officer instituted revocation proceedings, and after a hearing the district court found that King violated the terms of his release and sentenced him to 36 months’ imprisonment. King argues on appeal that the government failed to prove by a preponderance of the evidence that he violated the terms of his release by stabbing Buckner. We affirm.
+Probation Officer Douglas Heurmann filed a revocation petition in October 1999, alleging that on three separate occasions King violated the condition of his release that he not commit another federal, state, or local crime. Only one of these violations is at issue on appeal: King allegedly stabbed Buckner eight times with a steak knife and restrained her in his home for several hours on October 3, 1999. King was charged in state court with aggravated battery for the stabbing but a jury acquitted him.
+At the revocation hearing Buckner testified for the government that when she arrived at King’s residence on the evening of October 2, 1999, he had dinner and a drink waiting for her. She ate the meal in King’s bedroom, and after watching television for a while, she fell asleep on a mattress on the floor. She was awakened at approximately 11:00 p.m. by King stabbing and beating her. Buckner heard King say, “Who the fuck is Corey?” She struggled to fight off King and pleaded with him to let her go, but King kept responding, “Bitch, you’re going to die tonight.” According to Buckner, King had found Corey’s phone number in her purse and suspected that she was cheating on him. At some point during the evening King changed the sheets on the mattress because they had become soiled with blood. King ultimately fell asleep while lying on top of Buckner. He finally agreed to let Buckner leave at 8:30 a.m., and she drove to her grandmother’s house. Buckner called her friend Anita Crooks and confided that King had stabbed her. Crooks picked up Buckner to take her to the hospital, and on the way, they stopped at Buckner’s mother’s house. Buckner’s mother then called an ambulance, and Buckner ended up hospitalized for three to four days. Buckner suffered eight stab wounds to her arms, neck, and back.
+The government also called Probation Officer Heurmann to testify, who summarized the facts of the stabbing as he knew them. Heurmann related that the officers investigating the stabbing found hidden between a garage and a fence outside King’s residence a plastic bag containing, among other items, sheets and a pillowcase stained with blood and in King’s kitchen a bloodstained newspaper. Heurmann had the blood on these items tested, and the blood matched Buckner’s.
+King testified in his defense. He denied stabbing Buckner. He denied that she came to his house the evening of October 2, 1999. According to King, he awoke at about 8:00 a.m. on October 3 to Buckner knocking at his door. She asked him for a sweatshirt to cover up the cuts she had on her neck, but she refused to tell him how she got the cuts because she thought King would get mad. She “mumbled” the name “Corey,” but King didn’t “have the slightest idea” who Corey was. Buckner then left. King denied hiding the bloodstained sheets and pillowcase in a plastic bag out by the fence. He also said that the sheets and pillowcase did not belong to him.
+The government called Anita Crooks in rebuttal. Crooks has lived on the same street as King for 30 years. She met Buckner through King and knew the car she drove. On October 2, 1999, Crooks saw Buckner’s car parked at King’s house at approximately 10:00 p.m. Buckner’s car was still there at 10:30 p.m. when Crooks took her mother to the emergency room, at 2:30 a.m. when she returned, and at 3:00 a.m. when she took her mother home. Crooks further testified that Buckner called her at around 9:00 a.m. on October 3 and told her that King had stabbed her. On cross-examination, Crooks said that she was certain that she saw Buckner’s car parked at King’s house because she recognized Buckner’s plates, which read “MISS BUCK.”
+After hearing the evidence, the district court found that the government had carried its burden of proving by a preponderance of the evidence that King violated the terms of his supervised release by stabbing Buckner. In assessing the evidence, the court noted that “it is Ms. Buckner’s word against [King’s] word, or, in other words, the Court’s assessment of the credibility of these parties is critical to the outcome.” The court then expressly credited Buckner’s testimony.
+King maintains that the government failed to prove by a preponderance of the evidence that he violated the terms of his supervised release by stabbing Buckner. In his appellate brief, King maintains that “[t]here are two equally plausible, or equally implausible, explanations for the injuries suffered by Nina Buckner”: either King stabbed Buckner, as Buckner testified, or “Corey” stabbed Buckner, as King theorizes. In making this argument, King has necessarily conceded that the district court’s factual findings were not clearly erroneous. Where two permissible views of the evidence exist, a district court’s acceptance of one of those views is not clear error. United States v. Huerta, 239 F.3d 865, 871 (7th Cir.2001).
+Even ignoring the concession, King’s argument boils down to nothing more than the assertion that the district court should have credited his story over Buckner’s. This court accords a district court’s credibility findings exceptional deference and those findings rarely constitute clear error. United States v. White, 240 F.3d 656, 661 (7th Cir.2001). King speculates that Buckner named him as her attacker because she was jealous that he was involved with another woman and notes that she maintained contact with him after the stabbing. But the district court was fully capable of considering Buckner’s motivations in weighing the conflicting evidence and was in a far superior position to observe her demeanor and assess her credibility. See United States v. House, 110 F.3d 1281, 1285-86 (7th Cir.1997). King simply urges this court to reassess the district court’s credibility determination, but such an endeavor is wasted on an appellate court. Id. at 1286; United States v. Burke, 125 F.3d 401, 404 (7th Cir.1997) (per curiam).
+Accordingly, we AFFIRM the judgment of the district court.
